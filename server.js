@@ -8,7 +8,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 mongoose.connect(
-  "mongodb://localhost:27017/movie",
+  "mongodb://tina93120:1993120ljn@ds235431.mlab.com:35431/project1",
   { useNewUrlParser: true }
 );
 mongoose.Promise = global.Promise;

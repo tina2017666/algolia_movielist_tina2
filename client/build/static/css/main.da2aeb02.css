@@ -1,0 +1,11 @@
+.underline:hover {
+  text-decoration: underline;
+  color: red;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+}
+
+/*# sourceMappingURL=main.da2aeb02.css.map*/
